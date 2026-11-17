@@ -11,7 +11,7 @@ model = joblib.load(MODEL_PATH)
 st.set_page_config(
     page_title="Student Performance Prediction",
     page_icon="🎓",
-    layout="centred"
+    layout="centered"
 )
 
 st.title("🎓 Student Performance Prediction")
