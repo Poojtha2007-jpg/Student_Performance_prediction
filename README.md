@@ -70,6 +70,7 @@ Run:
 python -m streamlit run app/app.py
 
 Open the local URL displayed in the terminal.
+https://poojtha2007-jpg-stu-student-performance-predictionappapp-xqwmji.streamlit.app/
 Conclusion
 
 This project demonstrates how Machine Learning can be used to predict student academic performance through an interactive web application.
